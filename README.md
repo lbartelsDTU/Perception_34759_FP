@@ -1,7 +1,7 @@
 # Perception Final Project
 
 ## Project Overview
-> Full project description in the Repo
+> Full project description in the Repo  
 > Dataset not in the repo because they big
 
 ## Potential Split 
